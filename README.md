@@ -1,1 +1,1 @@
-Hi all, this is my portfolio website. Hope you liked it. :)
+Hi all, this is my portfolio website. Hope you liked it. ;)
